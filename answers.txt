@@ -12,3 +12,13 @@ In these meetings, you need to determine what to complete in the coming sprint, 
 These are short meetings that occur daily, where team members discuss work completed, work planned, and any roadblocks that may exist.
 -Sprint Retrospective Meeting:
 These are meetings that occur at the end of a sprint. Here, the work completed, incompleted work needed to be moved to backlog, and closing the sprint is discussed.
+
+d. Differentiate between Epic, Story, Bug, and Task issue types in JIRA.
+- Epic:
+Large body of work that can be broken down into several smaller stories.
+- Story:
+A software system requirement that can be expressed in a few short sentences.
+- Bug:
+A problem that has been detected in a story during the testing stage.
+- Task:
+A responsibility or step in the process of reaching the goal of a story.

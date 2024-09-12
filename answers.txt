@@ -4,3 +4,11 @@ Two cons of Agile development are that, due to the reactionary planning and prog
 
 b. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 The scrum master is responsible for all scrum related tasks, such as JIRA tooling, facilitating sprints and meetings, and standups. The Product owner is responsible for setting the direction of the team, handling release management and stakeholder management.
+
+c. What are the 3 types of meetings that happen during a sprint cycle?
+- Sprint Planning Meeting:
+In these meetings, you need to determine what to complete in the coming sprint, move stories in sprint scope from backlog to current sprint, and determine story points and assign stories to team.
+- Daily Scrum/Standup Meeting:
+These are short meetings that occur daily, where team members discuss work completed, work planned, and any roadblocks that may exist.
+-Sprint Retrospective Meeting:
+These are meetings that occur at the end of a sprint. Here, the work completed, incompleted work needed to be moved to backlog, and closing the sprint is discussed.
